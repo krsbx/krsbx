@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 # KRSBX
-I'm Muhammad Firdaus Sati, I develop games with Unity3D and sometimes I create a website using React and React Native for mobile apps.
+Hi! My name is Muhammad Firdaus Sati, I'm a Game Developer (Unity3D), Web Developer (Node JS, React), and a Mobile Developer (React Native). I'm talking mostly in TypeScript sometimes in JavaScript, Breathing with React, eating with React Native, and walking with C# and Unity3D.
 
 ### Skills
 * 🖥 C#
 * 🎮 Unity3D
-* 💻 JavaScript
+* 💻 JavaScript/TypeScript
 * ⚛ React
 * 📱 React Native
 
